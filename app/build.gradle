@@ -13,7 +13,7 @@ android {
         applicationId "com.example.challangechapter6"
         minSdk 21
         targetSdk 32
-        versionCode 1
+        versionCode 7
         versionName "1.0"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
@@ -36,6 +36,7 @@ android {
         viewBinding true
         dataBinding true
     }
+    namespace 'com.dcode.challangechapter6'
 }
 
 
